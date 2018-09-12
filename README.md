@@ -1,3 +1,3 @@
 # Login-Form
 
-Go to link for live demo - https://marufspage.github.io/demo-projects/login-form/
+Go to link for live demo - https://marufspage.github.io/projects/login-form/
